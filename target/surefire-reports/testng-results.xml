@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="27669" started-at="2020-03-01T23:04:02 CST" finished-at="2020-03-01T23:04:30 CST">
+    <groups>
+    </groups>
+    <test name="Selenium" duration-ms="27669" started-at="2020-03-01T23:04:02 CST" finished-at="2020-03-01T23:04:30 CST">
+      <class name="com.selenium.demo.day01.OpenBrowerse">
+        <test-method status="PASS" signature="openFifox()[pri:0, instance:com.selenium.demo.day01.OpenBrowerse@57baeedf]" name="openFifox" duration-ms="27640" started-at="2020-03-01T23:04:02 CST" finished-at="2020-03-01T23:04:30 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openFifox -->
+        <test-method status="PASS" signature="openChrome()[pri:0, instance:com.selenium.demo.day01.OpenBrowerse@57baeedf]" name="openChrome" duration-ms="17276" started-at="2020-03-01T23:04:02 CST" finished-at="2020-03-01T23:04:19 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openChrome -->
+      </class> <!-- com.selenium.demo.day01.OpenBrowerse -->
+    </test> <!-- Selenium -->
+  </suite> <!-- Default Suite -->
+</testng-results>

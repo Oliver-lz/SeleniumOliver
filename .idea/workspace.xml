@@ -1,7 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3473ade3-421c-4d42-b06b-5c8ff1d471ee" name="Default Changelist" comment="" />
+    <list default="true" id="3473ade3-421c-4d42-b06b-5c8ff1d471ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/TestNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Default Suite/Selenium.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Default Suite/Selenium.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.selenium.demo.day01.OpenBrowerse.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/Selenium.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/selenium/demo/day04/TestCase02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/demo/day01/OpenBrowerse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/demo/day01/OpenBrowerse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/demo/day04/TestCase02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/demo/day04/TestCase02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/selenium/demo/day01/OpenBrowerse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/selenium/demo/day01/OpenBrowerse.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +59,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -32,6 +78,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1YTJblUvMN9s1xQd6AcSUYbuMGX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -41,7 +88,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/driver" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -52,10 +99,20 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\Selenium\target" />
       <recent name="D:\IdeaProjects\Selenium\src\driver" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.OpenBrowerse.openedge">
+  <component name="RunManager" selected="TestNG.D:/IdeaProjects/Selenium/target/TestNG.xml">
+    <configuration name="D:/IdeaProjects/Selenium/target/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/target/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OpenBrowerse.openChrome" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <extension name="coverage">
@@ -112,6 +169,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.D:/IdeaProjects/Selenium/target/TestNG.xml" />
         <item itemvalue="TestNG.OpenBrowerse.openedge" />
         <item itemvalue="TestNG.OpenBrowerse.openFifox" />
         <item itemvalue="TestNG.OpenBrowerse.openChrome" />
@@ -136,42 +194,62 @@
       <workItem from="1582997120608" duration="471000" />
       <workItem from="1582997610624" duration="3230000" />
       <workItem from="1583041921407" duration="4655000" />
-      <workItem from="1583051384429" duration="1616000" />
+      <workItem from="1583051384429" duration="8810000" />
     </task>
+    <task id="LOCAL-00001" summary="第二次提交">
+      <created>1583054662967</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583054662967</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第二次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="333" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582961288758">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="333" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1582961288758" />
+    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1583054658583">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1583054658583" />
     <state x="404" y="95" key="FileChooserDialogImpl" timestamp="1583050328124">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="404" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1583050328124" />
-    <state width="1237" height="138" key="GridCell.Tab.0.bottom" timestamp="1583001224345">
+    <state width="1237" height="187" key="GridCell.Tab.0.bottom" timestamp="1583074714431">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="138" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583001224345" />
-    <state width="1237" height="138" key="GridCell.Tab.0.center" timestamp="1583001224345">
+    <state width="1237" height="187" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583074714431" />
+    <state width="1237" height="187" key="GridCell.Tab.0.center" timestamp="1583074714431">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="138" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583001224345" />
-    <state width="1237" height="138" key="GridCell.Tab.0.left" timestamp="1583001224345">
+    <state width="1237" height="187" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583074714431" />
+    <state width="1237" height="187" key="GridCell.Tab.0.left" timestamp="1583074714431">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="138" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583001224345" />
-    <state width="1237" height="138" key="GridCell.Tab.0.right" timestamp="1583001224345">
+    <state width="1237" height="187" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583074714431" />
+    <state width="1237" height="187" key="GridCell.Tab.0.right" timestamp="1583074714431">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="138" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583001224345" />
+    <state width="1237" height="187" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583074714431" />
     <state x="125" y="0" key="SettingsEditor" timestamp="1583051268111">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="125" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583051268111" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1583054688860">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1583054688860" />
     <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1583051384413">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

@@ -26,13 +26,5 @@ public class OpenBrowerse {
         Thread.sleep(3000);
         driver.quit();
     }
-    //打开edge浏览器
-    @Test
-    public  void openedge() throws InterruptedException {
-        System.setProperty("webdriver.edge.driver", "D:\\IdeaProjects\\Selenium\\src\\driver\\MicrosoftWebDriver.exe");
-        driver=new EdgeDriver();
-        Thread.sleep(3000);
-        driver.quit();
-    }
 
 }
