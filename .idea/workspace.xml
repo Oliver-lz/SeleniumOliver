@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3473ade3-421c-4d42-b06b-5c8ff1d471ee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YTJblUvMN9s1xQd6AcSUYbuMGX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/driver" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\Selenium\src\driver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.OpenBrowerse.openedge">
+    <configuration name="OpenBrowerse.openChrome" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.demo.day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.selenium.demo.day01" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.demo.day01.OpenBrowerse" />
+      <option name="METHOD_NAME" value="openChrome" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenBrowerse.openFifox" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.demo.day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.selenium.demo.day01" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.demo.day01.OpenBrowerse" />
+      <option name="METHOD_NAME" value="openFifox" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenBrowerse.openedge" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.demo.day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.selenium.demo.day01" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.demo.day01.OpenBrowerse" />
+      <option name="METHOD_NAME" value="openedge" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.OpenBrowerse.openedge" />
+        <item itemvalue="TestNG.OpenBrowerse.openFifox" />
+        <item itemvalue="TestNG.OpenBrowerse.openChrome" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3473ade3-421c-4d42-b06b-5c8ff1d471ee" name="Default Changelist" comment="" />
+      <created>1582960726682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582960726682</updated>
+      <workItem from="1582960733727" duration="1575000" />
+      <workItem from="1582964647979" duration="473000" />
+      <workItem from="1582982338504" duration="6000" />
+      <workItem from="1582995326537" duration="1614000" />
+      <workItem from="1582997055176" duration="46000" />
+      <workItem from="1582997120608" duration="471000" />
+      <workItem from="1582997610624" duration="3230000" />
+      <workItem from="1583041921407" duration="4655000" />
+      <workItem from="1583051384429" duration="1616000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="333" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582961288758">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="333" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1582961288758" />
+    <state x="404" y="95" key="FileChooserDialogImpl" timestamp="1583050328124">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="404" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1583050328124" />
+    <state width="1237" height="138" key="GridCell.Tab.0.bottom" timestamp="1583001224345">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="138" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583001224345" />
+    <state width="1237" height="138" key="GridCell.Tab.0.center" timestamp="1583001224345">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="138" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583001224345" />
+    <state width="1237" height="138" key="GridCell.Tab.0.left" timestamp="1583001224345">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="138" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583001224345" />
+    <state width="1237" height="138" key="GridCell.Tab.0.right" timestamp="1583001224345">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="138" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583001224345" />
+    <state x="125" y="0" key="SettingsEditor" timestamp="1583051268111">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="125" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583051268111" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1583051384413">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1583051384413" />
+  </component>
+</project>
