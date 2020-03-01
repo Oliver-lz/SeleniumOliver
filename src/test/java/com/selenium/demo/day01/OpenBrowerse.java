@@ -4,6 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 
@@ -23,6 +24,7 @@ public class OpenBrowerse {
        System.setProperty("webdriver.firefox.bin","C:\\Program Files\\Mozilla Firefox\\firefox.exe");
         driver=new FirefoxDriver();
         driver.get("http://wwww.baidu.com");
+        Assert.assertEquals(1,2);
         Thread.sleep(3000);
         driver.quit();
     }
